@@ -1,0 +1,24 @@
+{
+  "name": "fivem-dev-opencode",
+  "version": "0.1.0",
+  "description": "OpenCode-native FiveM development skill for QBox, QBCore, and ESX Legacy",
+  "skill_id": "fivem-dev",
+  "skill_path": ".opencode/skills/fivem-dev/SKILL.md",
+  "files": [
+    ".gitignore",
+    ".opencode/skills/fivem-dev/SKILL.md",
+    ".opencode/skills/fivem-dev/references/esx.md",
+    ".opencode/skills/fivem-dev/references/framework-detection.md",
+    ".opencode/skills/fivem-dev/references/fxmanifest.md",
+    ".opencode/skills/fivem-dev/references/nui.md",
+    ".opencode/skills/fivem-dev/references/ox-lib.md",
+    ".opencode/skills/fivem-dev/references/performance.md",
+    ".opencode/skills/fivem-dev/references/qbcore.md",
+    ".opencode/skills/fivem-dev/references/qbox.md",
+    ".opencode/skills/fivem-dev/references/server-security.md",
+    "NOTICE.md",
+    "README.md",
+    "scripts/install-global.ps1",
+    "scripts/install-global.sh"
+  ]
+}
